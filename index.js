@@ -83,5 +83,5 @@ searchFormElement.addEventListener("submit", handleSearchSubmit);
 searchCity("Paris");
 displayForecast();
 
-searchCity("Paris");
+
 
