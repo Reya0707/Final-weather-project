@@ -1,6 +1,7 @@
 body {
-  background-color: #f9f7fe;
   font-family: "Roboto", sans-serif;
+  background: radial-gradient(circle at 11.7% 80.6%, rgb(249, 185, 255) 0%, rgb(177, 172, 255) 49.3%, rgb(98, 203, 255) 89%);
+
 }
 
 a {
@@ -101,8 +102,10 @@ main {
 }
 
 .weather-forecast-icon {
-  font-size: 38px;
-  text-align: center;
+  width: 88px;
+  height: 88px;
+  display: block;
+  margin: 0 auto;
 }
 .weather-forecast-temperatures {
   text-align: center;

@@ -1,4 +1,3 @@
-alert("Hello world");
 
 function refreshWeather(response) {
   let temperatureElement = document.querySelector("#temperature");
