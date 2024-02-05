@@ -2,6 +2,8 @@ body {
   font-family:  "Playfair Display", serif;
   background: radial-gradient(circle at 11.7% 80.6%, rgb(249, 185, 255) 0%, rgb(177, 172, 255) 49.3%, rgb(98, 203, 255) 89%);
 font-weight: 300;
+background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/113/958/original/1540010.jpg?1707169386);
+background-repeat: no-repeat;
 }
 
 a {
@@ -11,8 +13,8 @@ a {
 
 .weather-app {
   background: #f7f8fede;
-  max-width: 600px;
-  margin: 45px auto;
+  max-width: 480px;
+  margin: 40px auto;
   border-radius: 16px;
   padding: 30px;
  box-shadow:  2px 1px 12px 5px #AA9DE3;
@@ -27,7 +29,7 @@ header {
   background-color: #f9f7fe;
   border: thick double #B6ADFF;
   border-radius: 18px;
-  width: 80%;
+  width: 75%;
   font-size: 16px;
   padding: 15px 20px;
 }
